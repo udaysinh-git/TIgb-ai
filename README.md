@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigb-ai&label=Profile%20views&color=e91c1c&style=flat" alt="tigb-ai" /> </p>
 
-- 🔭 I’m currently working on **my Mira Discord Bot**
+- 🔭 I’m currently working on ** Myra Discord Bot**
 
 - 🌱 I’m currently learning **Js**
 
