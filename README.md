@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Discord Bot Development**
 
-- 👨‍💻 All of my projects are available at [https://uday19.tk/](https://uday19.tk/)
+- 👨‍💻 All of my projects are available at [https://udaysinhh.tk/](https://udaysinh.tk/)
 
 - 💬 Ask me about **python,discord.py,nextcord.py**
 
 - 📫 How to reach me **Udaysinh#9816**
 
-- 📄 Know about my experiences [https://uday19.tk/](https://uday19.tk/)
+- 📄 Know about my experiences [https://udaysinh.tk/](https://udaysinh.tk/)
 
 - ⚡ Fun fact **Im funny and a extrovert :D**
 
