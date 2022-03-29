@@ -52,6 +52,6 @@
 <p>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tigb-ai&show_icons=true&theme=tokyonight&title_color=0a0a0a&text_color=e34a4a&bg_color=ffffff&hide_border=true&locale=en" alt="tigb-ai" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tigb-ai&show_icons=true&theme=tokyonight&title_color=0a0a0a&text_color=e34a4a&bg_color=ffffff&hide_border=true&locale=en" alt="tigb-ai" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tigb-ai&theme=dark" alt="tigb-ai" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tigb-ai&theme=dark" alt="tigb-ai" /></p>
