@@ -29,7 +29,8 @@
 <p>&nbsp;<img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=e5dxndhuj1pphjzho1yifsxzt&cover_image=true&theme=default" alt="tigb-ai" /></p>
 </p>
   
-
+<p align="left">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
