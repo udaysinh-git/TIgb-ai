@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">What Im listening on spotify :):</h3>
 <p align="left">
-<p>&nbsp;<img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=e5dxndhuj1pphjzho1yifsxzt&cover_image=true&theme=default" alt="tigb-ai" /></p>
+<p>&nbsp;<img align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=e5dxndhuj1pphjzho1yifsxzt&cover_image=true&theme=default&bar_color_cover=true)" alt="tigb-ai" /></p>
 </p>
   
 <p align="left">
