@@ -22,8 +22,15 @@
 - ⚡ Fun fact **Im funny and a extrovert :D**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 <!-- BLOG-POST-LIST:END -->
+<h3 align="left">What Im listening on spotify :):</h3>
+<p align="left">
+<p>&nbsp;<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=e5dxndhuj1pphjzho1yifsxzt&cover_image=true&theme=default" alt="tigb-ai" /></p>
+  
+</p>
+  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
