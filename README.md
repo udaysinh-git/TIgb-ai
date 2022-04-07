@@ -24,7 +24,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START 
 <!-- BLOG-POST-LIST:END -->
-<h3 align="left">What Im listening on spotify :):</h3>
+<h3 align="left">What Im listening on spotify :)</h3>
 <p align="left">
 <p>&nbsp;<img align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=e5dxndhuj1pphjzho1yifsxzt&cover_image=true&theme=default&bar_color_cover=true)" alt="tigb-ai" /></p>
 </p>
@@ -38,7 +38,7 @@
 <a href="https://twitter.com/udaysinh_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udaysinh_19" height="30" width="40" /></a>
 <a href="https://codesandbox.com/udaysinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="udaysinh" height="30" width="40" /></a>
 <a href="https://instagram.com/udaysinh__19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udaysinh__19" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/😏udaysinh😏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="😏udaysinh😏" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Udaysinh_xD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="😏udaysinh😏" height="30" width="40" /></a>
 <a href="https://discord.gg/CqqBAfxEE2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CqqBAfxEE2" height="30" width="40" /></a>
 </p>
 
