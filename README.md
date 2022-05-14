@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Discord Bot Development**
 
-- 👨‍💻 All of my projects are available at [https://udaysinhh.tk/](https://udaysinh.tk/)
+- 👨‍💻 All of my projects are available at [https://udaysinh.tk/](https://udaysinh.tk/)
 
 - 💬 Ask me about **python,discord.py,nextcord.py**
 
