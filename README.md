@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10">, I'm Udaysinh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Udaysinh</h1>
 <h3 align="center">A Python and Discord Bot Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigb-ai&label=Profile%20views&color=e91c1c&style=flat" alt="tigb-ai" /> </p>
