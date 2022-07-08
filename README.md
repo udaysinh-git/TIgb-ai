@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋, I' m Udaysinh</h1>
 <h3 align="center">Someone who loves to code more than life..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tigb-ai&label=Visitors%20:D&color=f96262&style=plastic" alt="tigb-ai" /> </p>
-
-<p align="left"> <a href="https://twitter.com/udaysinh_19" target="blank"><img src="https://img.shields.io/twitter/follow/udaysinh_19?logo=twitter&style=for-the-badge" alt="udaysinh_19" /></a> </p>
+<p align="center"> <a href="https://twitter.com/udaysinh_19" target="blank"><img src="https://img.shields.io/twitter/follow/udaysinh_19?logo=twitter&style=for-the-badge" alt="udaysinh_19" /></a> </p>
+<br>
+<p align="center"> <a href="https://www.youtube.com/c/Udaysinh_xD" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC79yHbnNm9mfTFG0DXHOrmw?logo=youtube&style=for-the-badge" alt="udaysinh_19" /></a> </p>
 
 - 🔭 I’m currently working on [Ultimate Discord Bot](https://github.com/TIgb-ai/Ultimate-Discord-Bot)
 
@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on [nHentai-Sauce-Downloader](https://github.com/TIgb-ai/nHentai-Sauce-Downloader)
 
-- 🤝 I’m looking for help with **My Studies**
+- 🤝 I’m looking for help with **my studies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TIgb-ai?tab=repositories](https://github.com/TIgb-ai?tab=repositories)
+- 👨‍💻 All of my projects are available at [my Github](https://github.com/TIgb-ai?tab=repositories)
 
 - 💬 Ask me about **python, discord bot development**
 
