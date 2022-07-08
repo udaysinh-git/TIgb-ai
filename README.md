@@ -52,21 +52,16 @@
   <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tigb-ai&show_icons=true&title_color=f78f00&text_color=ffffff&bg_color=413e3e&hide_border=true&locale=en&layout=compact" alt="tigb-ai" /></p>
 <p>
+<br>
+<br>
+<br>
+
 <p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tigb-ai&show_icons=true&theme=dark&title_color=fa9100&text_color=fcfcfc&bg_color=413e3e&hide_border=true&locale=en" alt="tigb-ai" /></p>
 <p>
- <br>
-  <br>
-  <br>
-  <br>
- <p>
-   <p>
-    <p>
-     <p>
-      <p>
-       <br>
-       <br>
-       <br>
-       <br>
+<p>
+<br>
+<br>
+<br>
 <h3 align="center">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/Udaysinh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Udaysinh" /></a><a href="https://ko-fi.com/Udaysinh"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Udaysinh" /></a></p><br><br>
