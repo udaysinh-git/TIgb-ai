@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/udaysinh_19" target="blank"><img src="https://img.shields.io/twitter/follow/udaysinh_19?logo=twitter&style=for-the-badge" alt="udaysinh_19" /></a> </p>
 <br>
-<p align="center"> <a href="https://www.youtube.com/c/Udaysinh_xD" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC79yHbnNm9mfTFG0DXHOrmw?logo=youtube&style=for-the-badge" alt="udaysinh_19" /></a> </p>
+<p align="center"> <a href="https://www.youtube.com/c/Udaysinh_xD?sub_confirmation=1" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC79yHbnNm9mfTFG0DXHOrmw?logo=youtube&style=for-the-badge" alt="udaysinh_19" /></a> </p>
 
 - <img src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" width="30"> I’m currently working on [Ultimate Discord Bot](https://github.com/TIgb-ai/Ultimate-Discord-Bot)
 
