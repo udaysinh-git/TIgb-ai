@@ -45,6 +45,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Udaysinh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Udaysinh" /></a><a href="https://ko-fi.com/Udaysinh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Udaysinh" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tigb-ai&show_icons=true&text_color=ffffff&bg_color=c20000&hide_border=true&locale=en&layout=compact" alt="tigb-ai" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tigb-ai&show_icons=true&theme=dark&title_color=121212&text_color=fcfcfc&bg_color=c20000&hide_border=true&locale=en" alt="tigb-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tigb-ai&theme=dark" alt="tigb-ai" /></p>
