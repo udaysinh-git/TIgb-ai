@@ -11,13 +11,13 @@
 
 - <img src="https://c.tenor.com/AaeYHs3bErQAAAAi/great-ideas-wide-smile.gif" width="30"> I’m am collaborating on [nHentai-Sauce-Downloader](https://github.com/TIgb-ai/nHentai-Sauce-Downloader)
 
-- <img src="https://c.tenor.com/MO9EVblTnxkAAAAi/cat-pet.gif" width="30"> I’m looking for help with **my studies**
+- <img src="https://c.tenor.com/MO9EVblTnxkAAAAi/cat-pet.gif" width="35"> I’m looking for help with **my studies**
 
 - <img src="https://c.tenor.com/pSEh1NMBsNMAAAAj/milktea.gif" width="40"> All of my projects are available at [my Github](https://github.com/TIgb-ai?tab=repositories)
 
-- <img src="https://c.tenor.com/0xfAbrRRBjUAAAAj/cat-up.gif" width="40"> Ask me about **python, discord bot development**
+- <img src="https://c.tenor.com/0xfAbrRRBjUAAAAj/cat-up.gif" width="30"> Ask me about **python, discord bot development**
 
-- <img src="https://c.tenor.com/ShOqQaBREDUAAAAj/peach-cat.gif" width="40"> Reach reach me [udaysinh_dev@aol.com](mailto:udaysinh_dev@aol.com)
+- <img src="https://c.tenor.com/ShOqQaBREDUAAAAj/peach-cat.gif" width="25"> Reach reach me [udaysinh_dev@aol.com](mailto:udaysinh_dev@aol.com)
 
 - <img src="https://c.tenor.com/7SNe-HvvChgAAAAi/boba.gif" width="30"> Know about my experiences [https://udaysinh.tk/](https://udaysinh.tk/)
 
