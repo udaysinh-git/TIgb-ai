@@ -13,11 +13,11 @@
 
 - <img src="https://c.tenor.com/MO9EVblTnxkAAAAi/cat-pet.gif" width="30"> I’m looking for help with **my studies**
 
-- <img src="https://c.tenor.com/pSEh1NMBsNMAAAAj/milktea.gif" width="30">💻 All of my projects are available at [my Github](https://github.com/TIgb-ai?tab=repositories)
+- <img src="https://c.tenor.com/pSEh1NMBsNMAAAAj/milktea.gif" width="40"> All of my projects are available at [my Github](https://github.com/TIgb-ai?tab=repositories)
 
-- <img src="https://c.tenor.com/0xfAbrRRBjUAAAAj/cat-up.gif" width="30"> Ask me about **python, discord bot development**
+- <img src="https://c.tenor.com/0xfAbrRRBjUAAAAj/cat-up.gif" width="40"> Ask me about **python, discord bot development**
 
-- <img src="https://c.tenor.com/ShOqQaBREDUAAAAj/peach-cat.gif" width="30"> How to reach me **udaysinh_dev@aol.com**
+- <img src="https://c.tenor.com/ShOqQaBREDUAAAAj/peach-cat.gif" width="40"> Reach reach me [udaysinh_dev@aol.com](mailto:udaysinh_dev@aol.com)
 
 - <img src="https://c.tenor.com/7SNe-HvvChgAAAAi/boba.gif" width="30"> Know about my experiences [https://udaysinh.tk/](https://udaysinh.tk/)
 
@@ -47,7 +47,7 @@
   <br>
   <br>
   <br>
-<h3 align="center"><img src="https://c.tenor.com/ZoZqWaSnN5UAAAAj/diwali-sparkles-stars.gif" width="40"> My Stats <img src="https://c.tenor.com/ZoZqWaSnN5UAAAAj/diwali-sparkles-stars.gif" width="40"></h3>
+<h3 align="center"><img src="https://c.tenor.com/ZoZqWaSnN5UAAAAj/diwali-sparkles-stars.gif" width="30"> My Stats <img src="https://c.tenor.com/ZoZqWaSnN5UAAAAj/diwali-sparkles-stars.gif" width="30"></h3>
 <p>
   <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tigb-ai&show_icons=true&title_color=f78f00&text_color=ffffff&bg_color=413e3e&hide_border=true&locale=en&layout=compact" alt="tigb-ai" /></p>
@@ -57,7 +57,5 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<h3 align="center"><img src="https://c.tenor.com/NO5llQ5liBUAAAAi/ffxiv-pusheen.gif" width="40">Support Me <img src="https://c.tenor.com/_5hefafqtN4AAAAi/help-holding.gif" width="40"></h3>
+<h3 align="center">Support Me <img src="https://c.tenor.com/_5hefafqtN4AAAAi/help-holding.gif" width="40"></h3>
 <p><a href="https://www.buymeacoffee.com/Udaysinh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Udaysinh" /></a><a href="https://ko-fi.com/Udaysinh"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Udaysinh" /></a></p><br><br>
