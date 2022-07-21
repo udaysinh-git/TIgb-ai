@@ -17,7 +17,7 @@
 
 - <img src="https://c.tenor.com/0xfAbrRRBjUAAAAj/cat-up.gif" width="30"> Ask me about **python, discord bot development**
 
-- <img src="https://c.tenor.com/ShOqQaBREDUAAAAj/peach-cat.gif" width="25"> Reach reach me [udaysinh_dev@aol.com](mailto:udaysinh_dev@aol.com)
+- <img src="https://c.tenor.com/ShOqQaBREDUAAAAj/peach-cat.gif" width="25"> Reach me at [udaysinh_dev@aol.com](mailto:udaysinh_dev@aol.com)
 
 - <img src="https://c.tenor.com/7SNe-HvvChgAAAAi/boba.gif" width="30"> Know about my experiences [https://udaysinh.tk/](https://udaysinh.tk/)
 
